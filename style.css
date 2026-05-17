@@ -37,9 +37,11 @@ color:black;
 width:150px;
 height:150px;
 border-radius:50%;
+object-fit:cover;
 }
 
 .logo{
 width:120px;
 margin-top:20px;
 }
+
